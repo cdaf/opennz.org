@@ -8,7 +8,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'Open Standard New Zealand',
+  title: 'Open Standards New Zealand',
   tagline: 'Kiwis can Fly',
   favicon: 'img/favicon.ico',
 
