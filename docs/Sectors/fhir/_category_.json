@@ -1,0 +1,8 @@
+{
+  "label": " Fast Healthcare Interoperability Resources",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Foundation canonical resources, but best read when authoring an Implementation Guide."
+  }
+}
