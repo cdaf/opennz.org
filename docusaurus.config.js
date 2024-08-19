@@ -65,7 +65,7 @@ const config = {
         title: 'OpenNZ',
         logo: {
           alt: 'Open Standards New Zealand',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
