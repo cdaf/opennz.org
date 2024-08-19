@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# Health Care
+# Health Level 7 (HL7)
 
 These sections will focus on Implementation Guides. These publications are produced from plan text files, in a specialised format. The overarching group which provides Health Care standards is [Health Level 7 (HL7)](https://www.hl7.org/).
 
@@ -37,5 +37,3 @@ Imagine you’re setting up a new healthcare system and need to define how patie
 For example, if you want to define a specific type of patient resource, you can use FSH to outline what fields are required, what values they should hold, and how they connect to other resources. Once you’ve written this in FSH, it can be automatically converted into the full FHIR format that systems understand.
 
 FSH is like a specialized toolkit that makes working with FHIR easier, allowing healthcare developers to quickly and clearly define how data should be organized and used in a FHIR-based system.
-
-
