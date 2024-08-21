@@ -96,32 +96,32 @@ const config = {
             ],
           },
           {
-            title: 'Community',
+            title: 'Industry',
             items: [
               {
-                label: 'Stack Overflow',
-                href: 'https://stackoverflow.com/questions/tagged/docusaurus',
+                label: 'HealthCare',
+                to: '/HealthCare/intro',
               },
               {
-                label: 'Discord',
-                href: 'https://discordapp.com/invite/docusaurus',
+                label: 'Telco',
+                to: '/Telco/intro',
               },
               {
-                label: 'Twitter',
-                href: 'https://twitter.com/docusaurus',
+                label: 'OpenBanking',
+                to: '/OpenBanking/intro',
               },
             ],
           },
           {
-            title: 'More',
+            title: 'Other Initiatives',
             items: [
               {
                 label: 'CDAF',
-                to: 'https://cdaf.io/',
+                href: 'https://cdaf.io',
               },
               {
-                label: 'GitHub',
-                href: 'https://github.com/facebook/docusaurus',
+                label: 'CDAF Guides',
+                href: 'https://learn.cdaf.io',
               },
             ],
           },
