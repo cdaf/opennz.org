@@ -11,3 +11,7 @@ The purpose of this material is to provide a collation of Open Standards in a Ne
 I have found each sector has a very steep learning curve with the guides and documentation going too deep, too fast. Global standards have to cater for complexities of language, taxation, time-zones, etc. whereas in New Zealand we have a relatively simple scope of compliance and social requirements.
 
 My approach to this documentation is learning from my experiences of "Oh, I wish someone told me that on day 1!".
+
+## Outcome Driven
+
+The material is oriented to providing tangible outcomes, gaining an understanding of the standards in a practical, hands on, way.
