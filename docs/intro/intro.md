@@ -14,4 +14,4 @@ My approach to this documentation is learning from my experiences of "Oh, I wish
 
 ## Outcome Driven
 
-The material is oriented to providing tangible outcomes, gaining an understanding of the standards in a practical, hands on, way.
+The material is oriented to providing tangible outcomes, gaining an understanding of the standards in a practical, hands on, way. The examples are based on Linux operating system commands.
