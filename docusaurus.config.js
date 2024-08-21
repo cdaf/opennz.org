@@ -77,7 +77,7 @@ const config = {
             label: 'Introduction',
           },
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/cdaf/opennz.org',
             label: 'GitHub',
             position: 'right',
           },
