@@ -87,21 +87,21 @@ const config = {
         style: 'dark',
         links: [
           {
-            title: 'Docs',
+            title: 'Sector',
             items: [
               {
-                label: 'Introduction',
-                to: '/intro',
+                label: 'HealthCare',
+                to: '/HealthCare/intro',
+              },
+              {
+                label: 'Education',
+                to: '/Education/intro',
               },
             ],
           },
           {
             title: 'Industry',
             items: [
-              {
-                label: 'HealthCare',
-                to: '/HealthCare/intro',
-              },
               {
                 label: 'Telco',
                 to: '/Telco/intro',
