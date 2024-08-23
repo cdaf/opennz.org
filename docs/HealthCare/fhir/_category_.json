@@ -1,6 +1,6 @@
 {
   "label": "FHIR Sorthand (FSH)",
-  "position": 4,
+  "position": 9,
   "link": {
     "type": "generated-index",
     "description": "Foundation canonical Fast Healthcare Interoperability Resources (FHIR), but best read when authoring an Implementation Guide."
