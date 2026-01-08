@@ -107,8 +107,8 @@ const config = {
                 to: '/Telco/intro',
               },
               {
-                label: 'OpenBanking',
-                to: '/OpenBanking/intro',
+                label: 'Banking',
+                to: '/Banking/intro',
               },
             ],
           },
