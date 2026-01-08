@@ -1,7 +1,13 @@
 ---
-sidebar_position: 4
+sidebar_position: 1
 ---
 
-# Open Banking
+# New Zealand Banking
 
-> More to come when I get time.
+This content provides a high level introduction to banking in a New Zealand context, outlining the key legislative bodies.
+
+Regulation is split between two key bodies: the Reserve Bank of New Zealand (RBNZ), which handles prudential supervision to ensure financial stability, and the Financial Markets Authority (FMA), which oversees market conduct to protect consumers. A major development in conduct regulation is the Conduct of Financial Institutions (CoFI) legislation, which amends the Financial Markets Conduct Act 2013 to require banks, insurers, and other financial institutions to obtain a license from the FMA and adhere to a "fair conduct principle" that mandates treating consumers fairly, including paying due regard to their interests and avoiding misleading practices. CoFI came into effect in stages, with full implementation by 2025, expanding the FMA's role in monitoring and enforcing compliance, including potential penalties for breaches. For more see [Conduct of Financial Institutions (CoFI) legislation on the FMA website](https://www.fma.govt.nz/business/legislation/conduct-of-financial-institutions-cofi-legislation/).
+
+As part of CoFI, licensed institutions must establish and maintain a Fair Conduct Programme (FCP), which consists of effective policies, processes, systems, and controls designed to ensure ongoing compliance with the fair conduct principle. This includes measures for product design, distribution, staff training, and handling complaints, with tailored guidance available for smaller firms to simplify implementation. Overall, these frameworks aim to build consumer trust and promote ethical practices in New Zealand's banking sector. For more see [Fair Conduct Programme on the FMA website](https://www.fma.govt.nz/business/services/financial-institutions/fair-conduct-programme/).
+
+Open Banking is implemented as part of the broader Consumer Data Right (CDR) framework under the Customer and Product Data Act 2025, which enables secure sharing of customer banking data and payment initiation with accredited third parties upon consent. This aims to boost competition, innovation, and consumer choice in financial services. The framework is primarily overseen by the Ministry of Business, Innovation and Employment (MBIE), which handles accreditation of data requestors, enforcement, and incorporation of technical standards developed by the industry-led Payments NZ API Centre. For more see [Open banking regulations now in force on the MBIE webstievt.nz/about/news/open-banking-regulations-now-in-force).
